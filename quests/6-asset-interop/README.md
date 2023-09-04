@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-¡Gran día, ¿verdad! ¡La última misión en nuestra serie inaugural de Soroban Quest! Ha sido genial ¿verdad? Y solo habrá más grandeza por venir, así que mantente atento.
+¡Gran día, ¿verdad? ¡La última misión en nuestra serie inaugural de Soroban Quest! Ha sido genial ¿verdad? Y solo habrá más grandeza por venir, así que mantente atento.
 
 Si buscas la siguiente cosa, asegúrate de revisar y contribuir en [Sorobanathon].
 
